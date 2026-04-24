@@ -15,6 +15,11 @@ The **Secant Method** is a root-finding algorithm that uses a succession of root
 | **Convergence Speed** | Very Fast (Quadratic) | Relatively Slow (Superlinear) |
 | **Failure Risk** | High if `f'(x) -> 0` | Lower, but still requires good initial guesses |
 
+### Newton Method & Secant Method Convergence
+
+The following plot illustrates how the Secant Method converges 
+![Convergence Graph](/images/image.img)
+
 ## The Formula
 The recurrence relation for the Secant Method is defined as:
 
